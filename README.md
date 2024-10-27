@@ -1,2 +1,1 @@
-# currency-converter-by-Erum
-This is my currency converter
+"# 1802-Currency-Converter" 
